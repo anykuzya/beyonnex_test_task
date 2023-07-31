@@ -1,0 +1,1 @@
+const val philosophical = "You're trying to check the same non-existent files. It's a philosophical question, but this is rather exception then texts inside non-existent files are anagrams"
